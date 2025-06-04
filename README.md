@@ -19,8 +19,12 @@
 ```bash
   cd bilingualtreasure
   ```
-
+```bash
+xcopy /E /I src\main\resources\ out\
+  ```
 ## 🛠️ Compila el código:
+
+
 Para compilar el código fuente, usa el siguiente comando en tu terminal:
 
 ```bash
