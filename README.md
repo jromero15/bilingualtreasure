@@ -15,11 +15,8 @@
 - JavaFX SDK (si estás compilando desde código fuente).
 - Compatible con Windows, macOS y Linux.
 
+### 1. Ejecutar .JAR
 
-## 🛠️ Compilación manual
-
-### 1. Descargar JavaFX
-
-- [Descargar JavaFX SDK](https://gluonhq.com/products/javafx/)
-- Extrae el contenido y copia la ruta a la carpeta `/lib`.
+- [Descargar .ZIP](https://poligran-my.sharepoint.com/my?viewid=6e2b3772%2Da438%2D48a2%2D9f75%2D2127022caf29&id=%2Fpersonal%2Fjandresromero1%5Fpoligran%5Fedu%5Fco%2FDocuments%2Fbilingualtreasure%5Fdist%2E7z&parent=%2Fpersonal%2Fjandresromero1%5Fpoligran%5Fedu%5Fco%2FDocuments)
+- Extrae el contenido y ejecutar.bat
 
