@@ -17,6 +17,6 @@
 
 ### 1. Ejecutar .JAR
 
-- [Descargar .ZIP](https://poligran-my.sharepoint.com/my?viewid=6e2b3772%2Da438%2D48a2%2D9f75%2D2127022caf29&id=%2Fpersonal%2Fjandresromero1%5Fpoligran%5Fedu%5Fco%2FDocuments%2Fbilingualtreasure%5Fdist%2E7z&parent=%2Fpersonal%2Fjandresromero1%5Fpoligran%5Fedu%5Fco%2FDocuments)
+- [Descargar .ZIP](https://drive.google.com/file/d/1sFkG10gD8mgQ4_GLE_W32tQDees6J-wL/view?usp=sharing)
 - Extrae el contenido y ejecutar.bat
 
