@@ -13,10 +13,9 @@
 
 - [Descargar Java 21](https://www-oracle-com.translate.goog/java/technologies/javase/jdk21-archive-downloads.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 - [Descargar JavaFX SDK 21.0.7](https://gluonhq.com/products/javafx/)
-- 
 # Pasos para ejecutar:
 
-Clonar repo:
+Clonar repo o descargar el .zip
 
 ```bash
   git clone https://github.com/jromero15/bilingualtreasure.git
@@ -53,3 +52,29 @@ java --module-path "javafx-sdk-21.0.7/lib" --add-modules javafx.controls,javafx.
 ## 📁  Estructura del código
 
 El código fuente está organizado en los siguientes archivos y directorios:
+
+
+## 📁 Estructura del código
+
+La estructura del proyecto está organizada de la siguiente manera:
+ ```plaintext
+bilingualtreasure/
+├── javafx-sdk-21.0.7/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── bilingualtreasure/
+│   │   │       ├── BilingualTreasure.java      # Clase principal que gestiona el inicio del juego.
+│   │   │       ├── Palabra.java                # Modelo de datos que representa las palabras.
+│   │   │       ├── Puntaje.java               # Modelo de datos para manejar el puntaje.
+│   │   │       ├── PantallaJuego.java         # Interfaz gráfica de la pantalla de juego.
+│   │   │       ├── PantallaFinal.java         # Interfaz gráfica para la pantalla final.
+│   │   │       ├── Temporizador.java          # Lógica del temporizador del juego.
+│   │   └── resources/
+│   │       └── images/
+│   │           ├── fondo.png                  
+│   │           ├── fondo_juego.png
+└── README.md                                  # Este archivo con la documentación del proyecto.
+└── pom.xml                                    # Configuración del proyecto Maven.
+ ```
+
