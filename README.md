@@ -18,11 +18,11 @@
 - Clonar repo o descargar el .zip
 
 ```bash
-  git clone https://github.com/jromero15/bilingualtreasure.git
+git clone https://github.com/jromero15/bilingualtreasure.git
   ```
 - Navega hasta la carpeta del proyecto
 ```bash
-  cd bilingualtreasure
+cd bilingualtreasure
   ```
 ```bash
 xcopy /E /I src\main\resources\ out\
