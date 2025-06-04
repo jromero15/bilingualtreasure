@@ -14,7 +14,7 @@
 - [Descargar Java 21](https://www-oracle-com.translate.goog/java/technologies/javase/jdk21-archive-downloads.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 - [Descargar JavaFX SDK 21.0.7](https://gluonhq.com/products/javafx/)
 - 
-# Pasos para ejecutar los comandos:
+# Pasos para ejecutar:
 
 Clonar repo:
 
