@@ -14,7 +14,7 @@
 - Java JDK 8 o superior.
 - JavaFX SDK (si estás compilando desde código fuente).
 
-### 1. Ejecutar .JAR
+### 1. Descargar y ejecutar .JAR
 
 - [Descargar .ZIP](https://drive.google.com/file/d/1sFkG10gD8mgQ4_GLE_W32tQDees6J-wL/view?usp=sharing)
 - Extrae el contenido y ejecutar.bat
