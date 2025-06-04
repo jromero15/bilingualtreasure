@@ -11,11 +11,35 @@
 
 ## ✅ Requisitos
 
-- Java JDK 8 o superior.
-- JavaFX SDK (si estás compilando desde código fuente).
+- [Descargar Java 21](https://www-oracle-com.translate.goog/java/technologies/javase/jdk21-archive-downloads.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+- [Descargar JavaFX SDK 21.0.7](https://gluonhq.com/products/javafx/)
+- 
+# Pasos para ejecutar los comandos:
+- Navega hasta la carpeta del proyecto
+```bash
+  cd bilingualtreasure
+  ```
 
-### 1. Descargar y ejecutar .JAR
+## 🛠️ Compila el código:
+Para compilar el código fuente, usa el siguiente comando en tu terminal:
+
+```bash
+javac --module-path "javafx-sdk-21.0.7/lib" --add-modules javafx.controls,javafx.fxml -d out src\main\java\bilingualtreasure\*.java
+```
+
+## 🎮 Ejecuta el juego:
+Una vez compilado el código, ejecuta el juego con el siguiente comando:
+
+```bash
+java --module-path "javafx-sdk-21.0.7/lib" --add-modules javafx.controls,javafx.fxml -cp out bilingualtreasure.BilingualTreasure
+```
+
+### 📦  (Opcional) Descargar y ejecutar .JAR
 
 - [Descargar .ZIP](https://drive.google.com/file/d/1sFkG10gD8mgQ4_GLE_W32tQDees6J-wL/view?usp=sharing)
-- Extrae el contenido y ejecutar.bat
+- Extrae el contenido del archivo ZIP.
+- Ejecuta el archivo ```ejecutar.bat``` para iniciar el juego.
 
+## 📁  Estructura del código
+
+El código fuente está organizado en los siguientes archivos y directorios:
