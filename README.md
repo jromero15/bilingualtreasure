@@ -13,7 +13,6 @@
 
 - Java JDK 8 o superior.
 - JavaFX SDK (si estás compilando desde código fuente).
-- Compatible con Windows, macOS y Linux.
 
 ### 1. Ejecutar .JAR
 
