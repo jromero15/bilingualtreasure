@@ -1,11 +1,20 @@
 package bilingualtreasure;
 
 public class Palabra {
-	public String ingles;
-	public String espanol;
+	private String ingles;
+	private String espanol;
 
 	public Palabra(String ingles, String espanol) {
 		this.ingles = ingles;
 		this.espanol = espanol;
 	}
+
+	public String getIngles() {
+		return ingles;
+	}
+
+	public String getEspanol() {
+		return espanol;
+	}
 }
+

@@ -1,7 +1,9 @@
 # Compiled class file
 *.class
+target/
+bin/
 
-# Log file
+# Archivos de logs
 *.log
 
 # BlueJ files
@@ -23,5 +25,12 @@
 hs_err_pid*
 replay_pid*
 
-# Folder
-**/*.*.*/
+# Configuraciones de IDE
+.idea/
+.settings/
+.project
+.classpath
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
