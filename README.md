@@ -15,6 +15,12 @@
 - [Descargar JavaFX SDK 21.0.7](https://gluonhq.com/products/javafx/)
 - 
 # Pasos para ejecutar los comandos:
+
+Clonar repo:
+
+```bash
+  git clone https://github.com/jromero15/bilingualtreasure.git
+  ```
 - Navega hasta la carpeta del proyecto
 ```bash
   cd bilingualtreasure
