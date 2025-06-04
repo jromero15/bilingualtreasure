@@ -2,6 +2,8 @@
 *.class
 target/
 bin/
+out/
+META-INF/
 
 # Archivos de logs
 *.log
