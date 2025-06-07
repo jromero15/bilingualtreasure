@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"bilingualtreasure","l":"BilingualTreasure"},{"p":"bilingualtreasure","l":"Palabra"},{"p":"bilingualtreasure","l":"PantallaFinal"},{"p":"bilingualtreasure","l":"PantallaJuego"},{"p":"bilingualtreasure","l":"Puntaje"},{"p":"bilingualtreasure","l":"Temporizador"}];updateSearchResults();
