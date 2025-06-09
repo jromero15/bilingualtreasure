@@ -1,3 +1,11 @@
+/*
+Integrantes
+ Daniel Felipe Salazar Pereira
+ Héctor Augusto Ruiz Henao
+ Jonathan Andrés Romero
+*/
+
+
 package bilingualtreasure;
 
 import java.util.List;
